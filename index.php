@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Growth care Uganda</title>
+      <title>Sexual Reproductive Health and Rights Awareness-Growth Care Uganda</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -75,7 +75,7 @@
                               <span class="label label-success cart_count"></span>
                             </a></li> -->
                            <li class="down_btn"><a href="product.php">Order Now</a></li>
-                           <li><a href="signup.html">Sign Up</a></li>
+                           <li><a href="signup.php">Sign Up</a></li>
                            <li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
                            <li><button type="button" id="sidebarCollapse">
                               <img src="images/menu_icon.png" alt="#" />
