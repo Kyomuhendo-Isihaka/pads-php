@@ -22,7 +22,7 @@
         <i class="fa fa-shopping-cart"></i>
         <span class="label label-success cart_count"></span>
       </a></li>
-      <a href="signup.html">Sign Up</a></li>
+      <a href="signup.php">Sign Up</a></li>
       <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
       </li>
 
